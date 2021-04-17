@@ -1,2 +1,2 @@
-# gRPCServicesUsingASPNETCore
-gRPC services with ASP.Net Core
+# gRPC Services Using ASPNETCore
+
